@@ -11,3 +11,4 @@
 |Make Selection Uppercase | Ctrl+J |
 |Compile | F4 |
 |File Transfer...|F5|
+|Redo|Ctrl+Shift+Z|
